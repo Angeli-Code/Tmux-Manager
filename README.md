@@ -53,7 +53,6 @@ tmmux
 
 ## How the Script Works
 The Tmux Manager script is designed to help you manage your Tmux sessions efficiently. Below is a detailed explanation of its functionality:
-Overview
 
 The script provides an interactive menu that allows you to create, attach, detach, and kill Tmux sessions. It also includes features to navigate your file system and git repositories using fzf (a command-line fuzzy finder).
 Key Components
@@ -105,14 +104,6 @@ Additional Features
 
     Dynamic Updates:
         The script dynamically updates the list of git repositories to ensure the latest information is available.
-
-    Error Handling:
-        Basic error handling is implemented to manage invalid inputs and ensure smooth operation.
-
-    User Feedback:
-        Clear messages are provided for actions like creating sessions, changing directories, and selecting projects.
-
-By integrating these features, the Tmux Manager script provides a comprehensive tool for managing Tmux sessions and navigating projects with ease.
 
 ## Detailed Help
 
